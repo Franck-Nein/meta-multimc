@@ -1,6 +1,7 @@
 # meta-multimc
+# Open issue if i forget to update please.
 Repository for MultiMC Minecraft package metadata (ARM64)
 
 This repository is modified metadata for ARM64.
 
-This repo may be out-of-date. If so, please fork it and replace everything except the `org.lwjgl` and `org.lwjgl3` folders with newer versions.
+Open issue if i forget to update please, i dont have lot of interest on snapshots so sometimes i just forget.
